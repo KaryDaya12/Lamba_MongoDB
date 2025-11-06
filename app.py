@@ -12,7 +12,7 @@ st.title("☕ Recomendador de Platos - Arquitectura Lambda (Café Quiteñito)")
 
 # ---------------------- Conexión a MongoDB Atlas ----------------------
 # Cambia el siguiente URI por el de tu cuenta de Atlas
-MONGO_URI = "mongodb+srv://karinachisaguanoest_db_user:<yhJcJgKtQV8zbAvo>@cluster0.9ks8qge.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://karinachisaguanoest_db_user:yhJcJgKtQV8zbAvo@cluster0.9ks8qge.mongodb.net/?appName=Cluster0"
 
 try:
     client = MongoClient(MONGO_URI)
