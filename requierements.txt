@@ -1,7 +1,5 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import random
-from datetime import datetime
-from PIL import Image
-from pymongo import MongoClient
+streamlit
+pandas
+numpy
+pillow
+pymongo
