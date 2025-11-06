@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 pillow
-pymongo
+pymongo==4.8.0
 python-dotenv
