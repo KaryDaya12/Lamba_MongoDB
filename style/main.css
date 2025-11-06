@@ -1,0 +1,73 @@
+/* Fondo general azul oscuro */
+[data-testid="stAppViewContainer"] {
+    background-color: #001f3f;  /* azul oscuro */
+    color: #f0f0f0;  /* texto gris claro */
+}
+
+/* Títulos principales */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+/* Texto general */
+.stMarkdown, p, span, div {
+    color: #e0e0e0 !important;
+}
+
+/* Tablas (DataFrames, st.table, etc.) */
+[data-testid="stTable"] {
+    background-color: #002b5c !important;  /* azul intermedio */
+    color: #ffffff !important;
+    border-radius: 10px;
+    border: 1px solid #004080;
+}
+
+/* Filas alternas para mejor lectura */
+[data-testid="stTable"] tbody tr:nth-child(even) {
+    background-color: #003366 !important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #003366 !important;
+    color: #ffffff !important;
+    border-right: 2px solid #004080;
+}
+
+/* Texto en el sidebar */
+section[data-testid="stSidebar"] * {
+    color: #ffffff !important;
+}
+
+/* Controles interactivos */
+.stButton > button, .stSlider, .stSelectbox {
+    color: #000000 !important;
+}
+
+/* Etiquetas de los sliders */
+.css-1x8cf1d, .css-10trblm, label {
+    color: #ffcc00 !important;
+}
+
+/* Estilo de pestañas */
+.stTabs [data-baseweb="tab"] {
+    background-color: #004080;
+    color: #ffffff;
+    border-radius: 8px 8px 0 0;
+    padding: 10px;
+    margin-right: 4px;
+}
+
+.stTabs [data-baseweb="tab"][aria-selected="true"] {
+    background-color: #ffcc00;
+    color: #000000;
+    font-weight: bold;
+}
+
+/* Footer */
+footer, .css-qri22k {
+    color: #cccccc !important;
+    font-style: italic;
+    text-align: center;
+}

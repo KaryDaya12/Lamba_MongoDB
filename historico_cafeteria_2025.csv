@@ -1,0 +1,1001 @@
+usuario,plato,valoracion,fecha
+Daniel,Capuccino,1,2025-07-20
+María,Cheesecake,4,2025-11-20
+Camila,Mocaccino,3,2025-02-04
+Jorge,Cheesecake,1,2025-08-04
+Daniel,Cheesecake,4,2025-03-06
+Elena,Cheesecake,1,2025-01-08
+Carlos,Cheesecake,1,2025-10-28
+Daniel,Croissant,3,2025-12-09
+Camila,Croissant,5,2025-11-28
+Jorge,Latte,5,2025-03-17
+María,Capuccino,1,2025-06-23
+Camila,Cheesecake,2,2025-02-16
+Camila,Latte,4,2025-01-15
+Carlos,Capuccino,2,2025-12-27
+Sofía,Sandwich de Jamón,2,2025-05-27
+Jorge,Mocaccino,1,2025-01-26
+Luis,Croissant,1,2025-11-04
+Camila,Sandwich de Jamón,1,2025-04-03
+Sofía,Capuccino,1,2025-08-20
+Luis,Sandwich de Jamón,5,2025-01-21
+Jorge,Mocaccino,1,2025-11-03
+Ana,Capuccino,5,2025-02-07
+Elena,Sandwich de Jamón,5,2025-10-03
+Sofía,Croissant,1,2025-06-06
+Andrés,Croissant,3,2025-06-28
+Ana,Latte,4,2025-05-12
+Elena,Sandwich de Jamón,2,2025-11-07
+Carlos,Cheesecake,5,2025-12-14
+Daniel,Sandwich de Jamón,4,2025-01-28
+María,Capuccino,3,2025-09-17
+Andrés,Capuccino,2,2025-03-17
+Carlos,Sandwich de Jamón,2,2025-03-08
+Jorge,Mocaccino,5,2025-12-08
+Carlos,Croissant,1,2025-07-13
+Daniel,Capuccino,3,2025-06-11
+Jorge,Croissant,5,2025-12-13
+Andrés,Capuccino,3,2025-12-27
+Daniel,Latte,1,2025-09-14
+Luis,Cheesecake,1,2025-03-13
+María,Capuccino,5,2025-03-28
+Andrés,Croissant,1,2025-09-19
+Luis,Latte,4,2025-08-02
+Elena,Capuccino,2,2025-06-02
+Andrés,Mocaccino,5,2025-07-29
+Elena,Cheesecake,3,2025-03-02
+Jorge,Capuccino,4,2025-09-25
+Luis,Latte,5,2025-09-19
+María,Mocaccino,1,2025-08-06
+Daniel,Sandwich de Jamón,1,2025-10-10
+Camila,Latte,1,2025-05-16
+Carlos,Latte,1,2025-12-28
+Ana,Mocaccino,3,2025-04-03
+María,Latte,4,2025-04-19
+Luis,Mocaccino,2,2025-08-29
+Camila,Capuccino,3,2025-12-21
+María,Mocaccino,3,2025-05-22
+Luis,Mocaccino,2,2025-10-18
+Sofía,Cheesecake,2,2025-08-25
+Sofía,Mocaccino,1,2025-12-06
+Elena,Mocaccino,3,2025-11-08
+María,Sandwich de Jamón,5,2025-06-26
+Sofía,Capuccino,2,2025-05-21
+Luis,Cheesecake,2,2025-07-08
+Elena,Sandwich de Jamón,4,2025-02-18
+Luis,Croissant,5,2025-10-29
+Elena,Capuccino,5,2025-07-09
+María,Capuccino,2,2025-05-16
+Camila,Croissant,1,2025-02-12
+Daniel,Mocaccino,4,2025-12-19
+Andrés,Sandwich de Jamón,5,2025-03-31
+Camila,Latte,2,2025-10-22
+Jorge,Cheesecake,5,2025-12-07
+Luis,Latte,4,2025-09-02
+Jorge,Croissant,4,2025-07-11
+Camila,Capuccino,3,2025-11-14
+Elena,Capuccino,2,2025-04-16
+Andrés,Cheesecake,4,2025-12-29
+Andrés,Capuccino,3,2025-11-06
+Ana,Capuccino,3,2025-08-21
+Andrés,Cheesecake,5,2025-09-22
+Daniel,Sandwich de Jamón,5,2025-12-10
+Andrés,Sandwich de Jamón,3,2025-02-06
+Camila,Cheesecake,5,2025-11-01
+Ana,Croissant,4,2025-02-10
+Camila,Capuccino,1,2025-01-17
+Camila,Capuccino,4,2025-12-10
+Carlos,Croissant,3,2025-10-04
+Ana,Sandwich de Jamón,3,2025-11-03
+Camila,Mocaccino,4,2025-02-28
+Carlos,Mocaccino,5,2025-07-02
+Carlos,Mocaccino,5,2025-02-10
+Ana,Sandwich de Jamón,3,2025-02-08
+Jorge,Sandwich de Jamón,2,2025-07-11
+Elena,Croissant,5,2025-09-24
+Daniel,Capuccino,4,2025-05-27
+Elena,Croissant,5,2025-11-29
+Andrés,Croissant,4,2025-05-07
+Daniel,Sandwich de Jamón,3,2025-02-15
+Andrés,Mocaccino,5,2025-02-14
+Camila,Latte,4,2025-01-01
+Luis,Capuccino,3,2025-06-17
+Ana,Sandwich de Jamón,2,2025-04-18
+Daniel,Mocaccino,4,2025-01-19
+Daniel,Latte,2,2025-11-28
+Camila,Latte,2,2025-03-13
+Jorge,Sandwich de Jamón,1,2025-04-19
+Carlos,Cheesecake,5,2025-09-25
+Camila,Capuccino,4,2025-08-28
+Sofía,Latte,2,2025-10-28
+Carlos,Sandwich de Jamón,1,2025-03-31
+Ana,Sandwich de Jamón,3,2025-04-13
+Carlos,Mocaccino,4,2025-09-07
+Jorge,Cheesecake,2,2025-01-08
+Carlos,Capuccino,5,2025-06-02
+Ana,Croissant,1,2025-12-13
+Jorge,Mocaccino,2,2025-06-23
+Elena,Latte,5,2025-12-09
+Daniel,Latte,2,2025-06-07
+Daniel,Mocaccino,4,2025-08-03
+Andrés,Sandwich de Jamón,4,2025-06-26
+Elena,Latte,4,2025-06-24
+Elena,Cheesecake,1,2025-12-06
+Carlos,Capuccino,4,2025-12-04
+Daniel,Cheesecake,5,2025-05-26
+Ana,Latte,2,2025-11-20
+María,Croissant,3,2025-06-10
+María,Capuccino,5,2025-05-07
+Jorge,Capuccino,5,2025-03-23
+Daniel,Mocaccino,4,2025-05-27
+Daniel,Mocaccino,1,2025-08-27
+María,Croissant,2,2025-03-25
+Daniel,Sandwich de Jamón,1,2025-04-23
+Carlos,Capuccino,2,2025-08-13
+Sofía,Croissant,2,2025-11-28
+Luis,Mocaccino,1,2025-08-31
+Elena,Mocaccino,5,2025-05-23
+Andrés,Capuccino,2,2025-02-10
+Jorge,Cheesecake,1,2025-09-15
+Sofía,Latte,2,2025-10-12
+María,Mocaccino,3,2025-04-15
+Elena,Sandwich de Jamón,5,2025-07-21
+Daniel,Sandwich de Jamón,4,2025-11-03
+Andrés,Mocaccino,2,2025-11-27
+Daniel,Cheesecake,3,2025-09-23
+Ana,Cheesecake,4,2025-07-29
+Ana,Croissant,4,2025-02-20
+Andrés,Sandwich de Jamón,2,2025-04-28
+Andrés,Croissant,1,2025-07-20
+María,Sandwich de Jamón,2,2025-02-08
+Andrés,Latte,3,2025-01-28
+Carlos,Latte,4,2025-09-16
+Daniel,Capuccino,2,2025-03-25
+Sofía,Croissant,1,2025-06-04
+Camila,Mocaccino,2,2025-04-27
+Andrés,Croissant,5,2025-01-02
+Jorge,Mocaccino,1,2025-04-03
+Ana,Cheesecake,3,2025-06-15
+Carlos,Croissant,4,2025-12-16
+Elena,Cheesecake,2,2025-10-23
+Camila,Latte,1,2025-09-15
+Sofía,Latte,5,2025-03-22
+Camila,Capuccino,1,2025-09-25
+Andrés,Croissant,5,2025-08-23
+María,Cheesecake,3,2025-11-17
+Ana,Mocaccino,4,2025-11-07
+Ana,Latte,3,2025-10-28
+Elena,Latte,2,2025-12-23
+María,Mocaccino,1,2025-08-01
+Daniel,Cheesecake,5,2025-03-03
+Luis,Cheesecake,5,2025-02-18
+Carlos,Croissant,1,2025-05-07
+Ana,Croissant,1,2025-08-11
+Jorge,Sandwich de Jamón,2,2025-10-06
+Ana,Sandwich de Jamón,3,2025-10-21
+Camila,Capuccino,5,2025-10-11
+Ana,Latte,2,2025-10-04
+Ana,Croissant,3,2025-04-17
+Luis,Cheesecake,2,2025-05-26
+Luis,Mocaccino,5,2025-04-09
+Sofía,Cheesecake,1,2025-03-14
+Daniel,Latte,1,2025-05-02
+Jorge,Sandwich de Jamón,3,2025-01-30
+Ana,Cheesecake,4,2025-07-07
+Ana,Capuccino,3,2025-12-30
+Carlos,Latte,4,2025-12-20
+Luis,Sandwich de Jamón,2,2025-10-15
+Jorge,Mocaccino,2,2025-07-14
+Elena,Sandwich de Jamón,5,2025-06-05
+Sofía,Capuccino,4,2025-06-21
+Daniel,Latte,5,2025-12-01
+María,Mocaccino,1,2025-02-10
+Daniel,Capuccino,4,2025-03-04
+Camila,Sandwich de Jamón,3,2025-01-23
+Ana,Capuccino,1,2025-12-26
+Sofía,Latte,1,2025-03-16
+Camila,Croissant,3,2025-02-17
+Jorge,Capuccino,1,2025-06-09
+María,Capuccino,4,2025-11-09
+Luis,Sandwich de Jamón,5,2025-04-28
+Sofía,Sandwich de Jamón,1,2025-04-10
+Sofía,Mocaccino,4,2025-06-16
+Ana,Sandwich de Jamón,2,2025-10-17
+Andrés,Cheesecake,4,2025-06-05
+Sofía,Latte,5,2025-01-07
+Carlos,Latte,4,2025-07-15
+María,Croissant,3,2025-02-25
+María,Croissant,5,2025-11-17
+Carlos,Latte,2,2025-07-12
+Elena,Croissant,3,2025-02-16
+Carlos,Mocaccino,4,2025-05-28
+Carlos,Sandwich de Jamón,5,2025-10-02
+María,Latte,2,2025-06-06
+Daniel,Croissant,3,2025-07-21
+María,Latte,2,2025-05-06
+Andrés,Cheesecake,4,2025-11-01
+Ana,Capuccino,2,2025-10-21
+Camila,Sandwich de Jamón,1,2025-03-05
+Daniel,Latte,3,2025-11-21
+Luis,Capuccino,2,2025-06-25
+Camila,Croissant,4,2025-04-26
+Ana,Capuccino,4,2025-07-23
+Andrés,Sandwich de Jamón,2,2025-11-17
+Andrés,Latte,4,2025-01-31
+Luis,Cheesecake,5,2025-04-23
+Daniel,Croissant,5,2025-12-31
+Elena,Latte,5,2025-11-21
+Carlos,Sandwich de Jamón,1,2025-12-10
+Daniel,Croissant,2,2025-03-08
+Elena,Mocaccino,1,2025-03-16
+Andrés,Capuccino,4,2025-02-14
+María,Sandwich de Jamón,1,2025-09-17
+Ana,Mocaccino,4,2025-06-03
+Luis,Latte,4,2025-06-04
+Ana,Cheesecake,3,2025-12-29
+Jorge,Croissant,5,2025-08-22
+Jorge,Capuccino,4,2025-02-20
+Daniel,Croissant,3,2025-11-02
+Andrés,Latte,5,2025-09-19
+Andrés,Croissant,4,2025-11-11
+Carlos,Capuccino,4,2025-05-05
+Carlos,Latte,1,2025-09-02
+Carlos,Croissant,1,2025-01-30
+María,Cheesecake,5,2025-05-02
+Camila,Sandwich de Jamón,4,2025-05-05
+Sofía,Latte,2,2025-02-06
+Camila,Sandwich de Jamón,1,2025-06-19
+Ana,Latte,5,2025-05-04
+Camila,Cheesecake,4,2025-12-23
+María,Sandwich de Jamón,4,2025-02-04
+Ana,Mocaccino,2,2025-03-28
+Camila,Capuccino,5,2025-05-14
+María,Mocaccino,4,2025-07-15
+Sofía,Croissant,1,2025-10-01
+Camila,Cheesecake,2,2025-07-20
+María,Mocaccino,5,2025-10-12
+Carlos,Latte,2,2025-03-18
+Andrés,Croissant,1,2025-02-28
+Carlos,Croissant,5,2025-05-06
+Andrés,Mocaccino,2,2025-04-19
+Luis,Mocaccino,3,2025-08-12
+Luis,Cheesecake,1,2025-10-05
+Luis,Capuccino,1,2025-03-09
+Sofía,Mocaccino,1,2025-03-10
+Carlos,Mocaccino,3,2025-06-14
+Andrés,Sandwich de Jamón,3,2025-11-01
+María,Latte,4,2025-06-11
+Ana,Sandwich de Jamón,2,2025-12-31
+María,Sandwich de Jamón,4,2025-12-08
+Ana,Croissant,2,2025-11-05
+Jorge,Capuccino,3,2025-12-09
+María,Latte,3,2025-02-11
+Camila,Cheesecake,4,2025-12-20
+Camila,Cheesecake,5,2025-04-19
+Daniel,Mocaccino,4,2025-02-20
+Carlos,Mocaccino,2,2025-09-07
+Ana,Cheesecake,4,2025-12-07
+Ana,Mocaccino,1,2025-01-21
+Carlos,Capuccino,2,2025-10-27
+Sofía,Sandwich de Jamón,2,2025-05-19
+Daniel,Mocaccino,5,2025-12-25
+Sofía,Croissant,3,2025-11-20
+Sofía,Mocaccino,2,2025-04-02
+Sofía,Latte,3,2025-10-07
+Carlos,Capuccino,4,2025-05-05
+Sofía,Latte,1,2025-04-21
+Camila,Latte,5,2025-12-20
+Luis,Croissant,3,2025-05-19
+Jorge,Capuccino,2,2025-09-30
+Ana,Capuccino,3,2025-04-09
+Ana,Capuccino,2,2025-09-09
+Jorge,Capuccino,3,2025-12-04
+Carlos,Capuccino,2,2025-04-14
+María,Croissant,4,2025-08-02
+Carlos,Mocaccino,2,2025-09-06
+Ana,Latte,2,2025-06-01
+Ana,Capuccino,1,2025-09-07
+Jorge,Mocaccino,2,2025-10-02
+Sofía,Mocaccino,1,2025-06-14
+Carlos,Latte,5,2025-12-07
+Andrés,Croissant,1,2025-01-08
+Jorge,Cheesecake,4,2025-10-11
+Camila,Cheesecake,1,2025-01-05
+Ana,Mocaccino,5,2025-05-25
+Jorge,Sandwich de Jamón,4,2025-04-11
+Carlos,Sandwich de Jamón,3,2025-06-13
+Ana,Latte,3,2025-05-27
+María,Cheesecake,1,2025-03-05
+Jorge,Mocaccino,1,2025-04-01
+Daniel,Croissant,5,2025-04-27
+Ana,Cheesecake,5,2025-12-20
+Carlos,Mocaccino,2,2025-09-24
+Luis,Mocaccino,5,2025-11-06
+Andrés,Capuccino,2,2025-06-22
+Elena,Croissant,4,2025-02-16
+Sofía,Capuccino,1,2025-05-20
+Elena,Latte,4,2025-09-03
+Carlos,Capuccino,5,2025-05-29
+Camila,Capuccino,4,2025-09-03
+Camila,Cheesecake,4,2025-01-05
+Luis,Sandwich de Jamón,4,2025-07-03
+Sofía,Mocaccino,5,2025-01-20
+Daniel,Croissant,4,2025-02-15
+Luis,Capuccino,2,2025-01-12
+Elena,Croissant,5,2025-03-11
+Luis,Sandwich de Jamón,4,2025-01-17
+Elena,Sandwich de Jamón,5,2025-05-27
+Ana,Capuccino,3,2025-06-03
+Camila,Latte,2,2025-10-31
+Ana,Capuccino,4,2025-04-18
+Andrés,Cheesecake,3,2025-08-24
+Sofía,Mocaccino,3,2025-11-04
+Daniel,Latte,5,2025-12-18
+Elena,Capuccino,3,2025-03-11
+Daniel,Croissant,2,2025-07-02
+Elena,Latte,2,2025-09-07
+Carlos,Latte,1,2025-08-16
+Luis,Capuccino,2,2025-04-12
+Andrés,Latte,3,2025-03-16
+Camila,Croissant,2,2025-08-04
+Elena,Sandwich de Jamón,5,2025-07-22
+Daniel,Latte,1,2025-07-11
+Andrés,Sandwich de Jamón,3,2025-09-06
+María,Croissant,1,2025-08-30
+María,Capuccino,3,2025-06-28
+Ana,Mocaccino,5,2025-08-07
+Camila,Latte,1,2025-03-23
+Carlos,Mocaccino,4,2025-04-02
+Daniel,Croissant,3,2025-06-24
+Luis,Latte,4,2025-08-27
+Luis,Sandwich de Jamón,1,2025-09-17
+Daniel,Cheesecake,4,2025-12-31
+Sofía,Mocaccino,4,2025-06-12
+Carlos,Latte,1,2025-02-17
+Andrés,Mocaccino,5,2025-11-25
+Elena,Latte,4,2025-11-24
+Sofía,Capuccino,4,2025-04-26
+Elena,Sandwich de Jamón,5,2025-12-03
+Elena,Mocaccino,4,2025-12-03
+Sofía,Cheesecake,4,2025-08-13
+Ana,Cheesecake,4,2025-12-18
+María,Croissant,2,2025-11-24
+Elena,Latte,5,2025-05-27
+Sofía,Mocaccino,4,2025-03-04
+Sofía,Croissant,5,2025-10-21
+Jorge,Mocaccino,3,2025-11-19
+Ana,Latte,3,2025-11-21
+Camila,Cheesecake,4,2025-01-13
+Jorge,Capuccino,5,2025-07-08
+Jorge,Cheesecake,5,2025-10-14
+Daniel,Croissant,5,2025-07-27
+María,Sandwich de Jamón,2,2025-04-24
+Sofía,Capuccino,3,2025-01-22
+María,Croissant,5,2025-12-15
+Carlos,Latte,5,2025-08-02
+Daniel,Capuccino,2,2025-06-20
+Camila,Croissant,2,2025-11-19
+María,Latte,5,2025-02-23
+Luis,Cheesecake,1,2025-10-25
+Elena,Sandwich de Jamón,5,2025-11-16
+Carlos,Latte,5,2025-05-06
+Ana,Mocaccino,2,2025-10-04
+Camila,Latte,2,2025-07-23
+Carlos,Latte,5,2025-07-13
+Elena,Sandwich de Jamón,5,2025-06-18
+Daniel,Mocaccino,5,2025-06-01
+Elena,Croissant,2,2025-02-04
+Jorge,Croissant,5,2025-07-03
+Elena,Latte,5,2025-10-13
+Jorge,Mocaccino,4,2025-02-26
+Daniel,Mocaccino,1,2025-08-10
+Andrés,Sandwich de Jamón,3,2025-10-30
+Jorge,Cheesecake,1,2025-06-12
+Ana,Croissant,4,2025-01-19
+Elena,Sandwich de Jamón,3,2025-09-21
+Elena,Capuccino,5,2025-10-09
+Ana,Croissant,4,2025-04-23
+Luis,Sandwich de Jamón,5,2025-11-23
+Sofía,Croissant,2,2025-01-30
+Andrés,Cheesecake,4,2025-05-15
+Camila,Capuccino,2,2025-03-08
+Jorge,Cheesecake,4,2025-03-06
+Ana,Capuccino,4,2025-10-19
+Daniel,Latte,2,2025-01-25
+Jorge,Sandwich de Jamón,3,2025-02-06
+Sofía,Capuccino,1,2025-01-01
+Daniel,Cheesecake,5,2025-02-06
+Carlos,Croissant,4,2025-05-21
+Elena,Capuccino,5,2025-08-20
+Carlos,Sandwich de Jamón,2,2025-05-16
+Jorge,Capuccino,5,2025-07-07
+Sofía,Mocaccino,2,2025-05-08
+Andrés,Croissant,5,2025-07-20
+Jorge,Sandwich de Jamón,1,2025-05-07
+Ana,Sandwich de Jamón,1,2025-09-14
+María,Latte,1,2025-06-13
+Jorge,Cheesecake,1,2025-02-04
+Elena,Latte,1,2025-07-13
+Elena,Sandwich de Jamón,1,2025-07-10
+Jorge,Croissant,2,2025-04-14
+Daniel,Capuccino,4,2025-01-23
+María,Capuccino,5,2025-09-22
+Ana,Croissant,1,2025-10-17
+Jorge,Sandwich de Jamón,2,2025-09-17
+Daniel,Capuccino,2,2025-12-24
+Elena,Capuccino,2,2025-03-16
+Elena,Capuccino,4,2025-12-21
+Sofía,Cheesecake,5,2025-03-13
+Jorge,Cheesecake,4,2025-09-16
+María,Mocaccino,3,2025-07-07
+Luis,Latte,2,2025-06-22
+María,Croissant,3,2025-10-17
+Elena,Croissant,1,2025-02-14
+Elena,Croissant,1,2025-03-02
+Carlos,Mocaccino,4,2025-03-24
+Elena,Cheesecake,5,2025-05-03
+Ana,Sandwich de Jamón,3,2025-12-24
+Camila,Sandwich de Jamón,5,2025-01-16
+Jorge,Mocaccino,4,2025-03-07
+María,Sandwich de Jamón,1,2025-05-25
+Camila,Croissant,5,2025-06-11
+Daniel,Latte,5,2025-08-22
+Luis,Capuccino,1,2025-05-24
+Ana,Cheesecake,3,2025-12-24
+María,Cheesecake,1,2025-07-07
+Camila,Mocaccino,5,2025-11-18
+Luis,Cheesecake,3,2025-01-13
+Carlos,Croissant,3,2025-07-03
+Ana,Sandwich de Jamón,1,2025-04-21
+Ana,Croissant,5,2025-10-17
+Carlos,Mocaccino,4,2025-10-22
+Jorge,Croissant,5,2025-08-03
+Carlos,Sandwich de Jamón,2,2025-04-30
+Ana,Latte,4,2025-02-24
+Ana,Mocaccino,3,2025-01-27
+Camila,Latte,4,2025-04-28
+Elena,Capuccino,3,2025-08-09
+Luis,Latte,3,2025-08-19
+Carlos,Capuccino,4,2025-02-22
+Luis,Capuccino,3,2025-10-22
+Carlos,Latte,3,2025-11-17
+Daniel,Mocaccino,2,2025-08-21
+Ana,Sandwich de Jamón,5,2025-06-07
+Elena,Croissant,5,2025-09-26
+Camila,Croissant,2,2025-01-21
+Elena,Sandwich de Jamón,4,2025-02-22
+Elena,Capuccino,1,2025-10-02
+Elena,Capuccino,1,2025-11-09
+Luis,Mocaccino,1,2025-10-08
+Carlos,Cheesecake,2,2025-08-02
+Andrés,Latte,2,2025-01-31
+Daniel,Capuccino,3,2025-12-03
+María,Croissant,1,2025-07-02
+Elena,Mocaccino,4,2025-01-23
+Jorge,Latte,4,2025-02-01
+Luis,Mocaccino,1,2025-03-15
+Camila,Latte,1,2025-01-10
+María,Latte,1,2025-02-23
+Andrés,Sandwich de Jamón,2,2025-02-21
+Jorge,Capuccino,2,2025-05-28
+Andrés,Mocaccino,2,2025-06-09
+María,Mocaccino,5,2025-01-14
+Elena,Sandwich de Jamón,4,2025-06-27
+Jorge,Croissant,4,2025-02-22
+Andrés,Croissant,3,2025-12-01
+Camila,Capuccino,2,2025-01-22
+Carlos,Capuccino,5,2025-01-30
+Ana,Cheesecake,5,2025-07-10
+Carlos,Sandwich de Jamón,4,2025-09-17
+María,Croissant,2,2025-07-24
+Luis,Latte,3,2025-02-28
+Ana,Mocaccino,2,2025-09-21
+Daniel,Capuccino,1,2025-01-12
+Camila,Mocaccino,2,2025-04-29
+Daniel,Mocaccino,1,2025-10-17
+Jorge,Cheesecake,1,2025-12-04
+Ana,Croissant,3,2025-09-05
+Daniel,Capuccino,4,2025-12-20
+Daniel,Mocaccino,2,2025-05-07
+Andrés,Capuccino,1,2025-03-16
+Carlos,Latte,2,2025-12-27
+Andrés,Cheesecake,4,2025-07-23
+Ana,Latte,4,2025-02-18
+Ana,Capuccino,5,2025-03-20
+María,Capuccino,4,2025-08-29
+Andrés,Croissant,3,2025-12-15
+Sofía,Mocaccino,1,2025-06-03
+Carlos,Mocaccino,5,2025-10-01
+Ana,Latte,3,2025-04-06
+María,Cheesecake,2,2025-08-02
+Andrés,Sandwich de Jamón,1,2025-10-21
+Carlos,Mocaccino,4,2025-07-28
+Andrés,Croissant,1,2025-12-09
+Daniel,Latte,2,2025-03-29
+María,Latte,5,2025-11-02
+Carlos,Sandwich de Jamón,5,2025-09-21
+Elena,Croissant,5,2025-11-21
+Jorge,Cheesecake,4,2025-11-16
+Jorge,Croissant,3,2025-06-06
+Carlos,Cheesecake,3,2025-06-05
+Andrés,Croissant,1,2025-05-19
+María,Croissant,4,2025-05-01
+Jorge,Capuccino,5,2025-03-06
+María,Latte,5,2025-04-17
+Jorge,Croissant,2,2025-05-27
+Daniel,Sandwich de Jamón,2,2025-05-17
+Andrés,Croissant,5,2025-06-11
+Daniel,Mocaccino,5,2025-04-10
+Jorge,Latte,4,2025-12-04
+Elena,Mocaccino,3,2025-11-03
+Elena,Latte,2,2025-05-21
+Daniel,Mocaccino,3,2025-03-24
+Elena,Croissant,4,2025-06-26
+Jorge,Croissant,5,2025-07-17
+Carlos,Capuccino,3,2025-04-22
+Daniel,Sandwich de Jamón,5,2025-02-25
+Luis,Mocaccino,5,2025-06-28
+Andrés,Cheesecake,1,2025-07-05
+Elena,Capuccino,3,2025-08-06
+Elena,Mocaccino,3,2025-11-12
+Ana,Mocaccino,5,2025-08-05
+Sofía,Capuccino,4,2025-04-30
+Daniel,Croissant,1,2025-06-24
+Camila,Mocaccino,5,2025-01-23
+Elena,Croissant,2,2025-08-01
+Andrés,Capuccino,2,2025-08-23
+Luis,Croissant,1,2025-01-13
+Elena,Latte,4,2025-04-11
+Luis,Cheesecake,5,2025-01-24
+Jorge,Mocaccino,3,2025-12-30
+Jorge,Sandwich de Jamón,1,2025-01-11
+Sofía,Cheesecake,4,2025-09-30
+Carlos,Croissant,3,2025-10-08
+Camila,Mocaccino,2,2025-04-04
+Ana,Croissant,2,2025-07-20
+Sofía,Latte,3,2025-01-21
+María,Capuccino,1,2025-12-06
+Ana,Mocaccino,2,2025-07-30
+Daniel,Latte,5,2025-05-20
+Andrés,Latte,3,2025-10-20
+María,Mocaccino,3,2025-10-25
+María,Croissant,2,2025-04-11
+Sofía,Sandwich de Jamón,1,2025-10-31
+Carlos,Latte,5,2025-12-25
+Sofía,Cheesecake,1,2025-01-28
+Daniel,Latte,4,2025-02-10
+Elena,Sandwich de Jamón,4,2025-12-21
+Elena,Croissant,2,2025-10-30
+Carlos,Croissant,2,2025-05-26
+Daniel,Cheesecake,2,2025-09-13
+Carlos,Latte,4,2025-08-15
+Luis,Croissant,1,2025-08-24
+Elena,Sandwich de Jamón,1,2025-12-27
+María,Mocaccino,2,2025-01-13
+Camila,Capuccino,5,2025-07-29
+Andrés,Capuccino,1,2025-08-17
+Daniel,Capuccino,4,2025-04-10
+Ana,Latte,3,2025-01-31
+Carlos,Cheesecake,3,2025-01-16
+Andrés,Croissant,3,2025-05-17
+Ana,Mocaccino,5,2025-11-25
+Andrés,Sandwich de Jamón,2,2025-06-15
+Camila,Mocaccino,4,2025-11-06
+Ana,Sandwich de Jamón,5,2025-04-10
+Sofía,Latte,4,2025-04-19
+Jorge,Capuccino,4,2025-12-09
+Sofía,Latte,2,2025-06-22
+Elena,Cheesecake,3,2025-08-25
+Jorge,Cheesecake,2,2025-06-11
+Sofía,Sandwich de Jamón,5,2025-08-04
+Jorge,Croissant,5,2025-09-21
+Jorge,Croissant,5,2025-09-20
+María,Sandwich de Jamón,2,2025-10-19
+Carlos,Cheesecake,4,2025-10-01
+Carlos,Cheesecake,4,2025-01-03
+María,Cheesecake,1,2025-01-28
+Andrés,Latte,5,2025-11-22
+Luis,Cheesecake,4,2025-05-29
+Andrés,Mocaccino,1,2025-01-28
+Ana,Capuccino,4,2025-11-06
+Ana,Cheesecake,5,2025-03-06
+Jorge,Sandwich de Jamón,3,2025-12-22
+Sofía,Capuccino,5,2025-01-21
+Sofía,Latte,2,2025-09-09
+Carlos,Sandwich de Jamón,4,2025-08-23
+Daniel,Capuccino,4,2025-08-15
+Andrés,Sandwich de Jamón,2,2025-01-13
+Elena,Latte,2,2025-11-09
+Camila,Mocaccino,3,2025-02-18
+Sofía,Latte,4,2025-04-28
+Camila,Latte,4,2025-02-23
+Jorge,Sandwich de Jamón,3,2025-05-18
+Camila,Croissant,1,2025-02-22
+Elena,Cheesecake,3,2025-02-13
+María,Cheesecake,5,2025-10-30
+Elena,Mocaccino,4,2025-02-22
+Camila,Mocaccino,2,2025-03-15
+Elena,Cheesecake,5,2025-02-15
+Luis,Croissant,4,2025-01-13
+Jorge,Cheesecake,3,2025-06-14
+Andrés,Croissant,5,2025-04-12
+María,Mocaccino,4,2025-10-07
+Sofía,Capuccino,1,2025-09-15
+Ana,Sandwich de Jamón,1,2025-12-03
+Andrés,Mocaccino,2,2025-12-22
+Ana,Mocaccino,4,2025-05-18
+Jorge,Latte,1,2025-06-12
+María,Latte,3,2025-04-21
+Carlos,Latte,4,2025-04-12
+Sofía,Sandwich de Jamón,3,2025-01-17
+Luis,Latte,3,2025-09-25
+Carlos,Croissant,1,2025-07-01
+Jorge,Cheesecake,4,2025-01-24
+Andrés,Capuccino,5,2025-01-29
+Luis,Mocaccino,1,2025-06-20
+Elena,Croissant,1,2025-08-16
+Camila,Capuccino,4,2025-07-07
+Luis,Croissant,4,2025-12-12
+Jorge,Croissant,3,2025-08-18
+Daniel,Mocaccino,4,2025-11-17
+Camila,Cheesecake,3,2025-12-06
+Ana,Latte,1,2025-04-29
+Sofía,Sandwich de Jamón,2,2025-06-05
+Ana,Cheesecake,5,2025-09-29
+Luis,Sandwich de Jamón,1,2025-06-24
+Ana,Mocaccino,4,2025-04-14
+Jorge,Mocaccino,5,2025-04-02
+Elena,Mocaccino,2,2025-07-05
+Andrés,Capuccino,2,2025-10-10
+Sofía,Sandwich de Jamón,3,2025-06-30
+Ana,Cheesecake,5,2025-06-19
+Ana,Cheesecake,3,2025-07-06
+Luis,Croissant,1,2025-06-24
+Andrés,Croissant,5,2025-08-10
+Carlos,Croissant,1,2025-08-21
+Ana,Mocaccino,3,2025-06-11
+Jorge,Cheesecake,5,2025-05-14
+Daniel,Sandwich de Jamón,3,2025-08-12
+Sofía,Mocaccino,5,2025-06-02
+Ana,Capuccino,3,2025-02-02
+Jorge,Croissant,2,2025-02-24
+Jorge,Mocaccino,3,2025-01-07
+Sofía,Mocaccino,2,2025-09-01
+Carlos,Capuccino,3,2025-11-09
+Jorge,Latte,5,2025-05-06
+Daniel,Cheesecake,5,2025-01-12
+Jorge,Sandwich de Jamón,5,2025-01-16
+Jorge,Latte,4,2025-07-27
+Jorge,Croissant,1,2025-02-12
+Elena,Mocaccino,5,2025-05-15
+Elena,Capuccino,2,2025-08-16
+Carlos,Capuccino,5,2025-04-21
+Ana,Cheesecake,4,2025-11-03
+Jorge,Latte,2,2025-06-09
+Andrés,Cheesecake,4,2025-11-27
+Ana,Mocaccino,2,2025-09-21
+Carlos,Cheesecake,3,2025-08-13
+María,Sandwich de Jamón,1,2025-08-05
+Ana,Capuccino,1,2025-02-14
+Ana,Capuccino,4,2025-08-02
+Camila,Croissant,1,2025-02-28
+Luis,Croissant,4,2025-05-12
+Camila,Mocaccino,4,2025-04-14
+Daniel,Sandwich de Jamón,4,2025-07-14
+Elena,Latte,1,2025-06-06
+Elena,Cheesecake,4,2025-04-08
+Luis,Mocaccino,1,2025-08-14
+Sofía,Croissant,4,2025-07-24
+Sofía,Cheesecake,5,2025-03-20
+Carlos,Croissant,4,2025-05-04
+Luis,Cheesecake,2,2025-08-06
+Ana,Latte,4,2025-01-04
+Sofía,Mocaccino,3,2025-03-31
+Jorge,Cheesecake,4,2025-04-14
+Andrés,Sandwich de Jamón,2,2025-04-29
+Ana,Capuccino,2,2025-05-13
+Daniel,Sandwich de Jamón,1,2025-11-08
+Jorge,Sandwich de Jamón,5,2025-04-06
+Jorge,Capuccino,4,2025-11-27
+Luis,Sandwich de Jamón,1,2025-05-23
+Carlos,Cheesecake,5,2025-10-15
+Daniel,Cheesecake,4,2025-01-28
+Sofía,Cheesecake,3,2025-10-05
+Luis,Capuccino,4,2025-08-21
+Sofía,Sandwich de Jamón,2,2025-01-17
+Luis,Capuccino,2,2025-02-28
+Luis,Cheesecake,3,2025-03-31
+Luis,Sandwich de Jamón,1,2025-07-18
+Carlos,Sandwich de Jamón,5,2025-12-28
+Luis,Croissant,4,2025-01-26
+María,Croissant,2,2025-01-25
+Andrés,Latte,1,2025-10-28
+Sofía,Mocaccino,3,2025-12-05
+Ana,Croissant,2,2025-09-24
+Camila,Capuccino,3,2025-06-30
+Daniel,Croissant,4,2025-12-26
+Elena,Latte,5,2025-03-09
+Carlos,Sandwich de Jamón,2,2025-12-17
+Ana,Latte,2,2025-11-17
+Jorge,Sandwich de Jamón,4,2025-02-18
+María,Sandwich de Jamón,1,2025-06-24
+Elena,Mocaccino,5,2025-02-21
+Camila,Croissant,2,2025-04-12
+Ana,Capuccino,5,2025-08-04
+Elena,Capuccino,2,2025-07-07
+Ana,Cheesecake,5,2025-02-26
+María,Sandwich de Jamón,3,2025-02-16
+Camila,Capuccino,2,2025-06-08
+Jorge,Mocaccino,5,2025-06-23
+Luis,Sandwich de Jamón,1,2025-08-30
+Sofía,Mocaccino,3,2025-10-09
+Jorge,Capuccino,3,2025-08-29
+Luis,Capuccino,1,2025-01-05
+Carlos,Cheesecake,5,2025-03-25
+Andrés,Capuccino,4,2025-11-04
+Daniel,Sandwich de Jamón,1,2025-12-27
+Daniel,Sandwich de Jamón,5,2025-09-05
+Sofía,Sandwich de Jamón,1,2025-02-23
+Camila,Cheesecake,1,2025-06-10
+María,Cheesecake,2,2025-08-14
+Camila,Capuccino,5,2025-01-15
+María,Latte,4,2025-08-12
+Camila,Latte,2,2025-03-02
+Andrés,Cheesecake,1,2025-05-02
+Carlos,Capuccino,1,2025-10-04
+Carlos,Latte,1,2025-02-15
+Luis,Capuccino,5,2025-10-21
+Elena,Capuccino,5,2025-03-03
+Carlos,Capuccino,2,2025-03-27
+Carlos,Croissant,4,2025-07-29
+Jorge,Sandwich de Jamón,2,2025-03-19
+Jorge,Capuccino,3,2025-07-21
+Luis,Croissant,1,2025-10-29
+Elena,Cheesecake,1,2025-08-11
+Sofía,Latte,1,2025-08-10
+Jorge,Sandwich de Jamón,2,2025-01-03
+Sofía,Latte,2,2025-01-06
+Ana,Sandwich de Jamón,1,2025-04-03
+Jorge,Latte,2,2025-01-08
+Andrés,Sandwich de Jamón,5,2025-08-23
+Elena,Latte,5,2025-04-18
+Luis,Latte,2,2025-06-10
+Ana,Latte,1,2025-07-28
+Elena,Latte,2,2025-08-28
+Andrés,Cheesecake,2,2025-11-27
+Elena,Capuccino,2,2025-11-29
+Andrés,Mocaccino,3,2025-02-19
+Andrés,Croissant,5,2025-01-11
+Sofía,Mocaccino,4,2025-12-17
+Camila,Mocaccino,4,2025-06-05
+Ana,Sandwich de Jamón,3,2025-03-11
+Elena,Capuccino,2,2025-06-18
+María,Sandwich de Jamón,3,2025-09-29
+Ana,Capuccino,3,2025-03-09
+Camila,Capuccino,1,2025-12-21
+Ana,Latte,5,2025-09-09
+Carlos,Cheesecake,4,2025-02-17
+María,Latte,2,2025-07-03
+Camila,Cheesecake,4,2025-11-16
+Sofía,Sandwich de Jamón,4,2025-07-06
+Elena,Cheesecake,5,2025-03-31
+Daniel,Sandwich de Jamón,4,2025-11-28
+Camila,Mocaccino,4,2025-05-19
+Luis,Mocaccino,3,2025-12-23
+Elena,Cheesecake,5,2025-03-30
+Camila,Cheesecake,1,2025-10-01
+Carlos,Sandwich de Jamón,2,2025-01-19
+Daniel,Latte,4,2025-11-07
+Carlos,Sandwich de Jamón,2,2025-12-24
+Daniel,Latte,1,2025-06-03
+Luis,Mocaccino,2,2025-09-17
+Elena,Capuccino,1,2025-04-18
+Sofía,Cheesecake,3,2025-10-12
+Carlos,Latte,4,2025-02-28
+Carlos,Sandwich de Jamón,1,2025-05-05
+Andrés,Mocaccino,2,2025-12-20
+Daniel,Latte,4,2025-09-30
+Jorge,Sandwich de Jamón,3,2025-04-17
+Elena,Cheesecake,4,2025-10-26
+Daniel,Cheesecake,1,2025-09-02
+Andrés,Croissant,3,2025-12-02
+Ana,Capuccino,2,2025-09-04
+Daniel,Croissant,3,2025-01-08
+Sofía,Mocaccino,3,2025-05-21
+Elena,Latte,5,2025-12-28
+Andrés,Mocaccino,3,2025-01-08
+Ana,Sandwich de Jamón,3,2025-12-18
+María,Cheesecake,4,2025-04-04
+Andrés,Croissant,2,2025-11-17
+María,Croissant,4,2025-02-08
+Elena,Croissant,4,2025-03-22
+Carlos,Mocaccino,1,2025-07-06
+Andrés,Cheesecake,4,2025-03-25
+Luis,Latte,5,2025-03-29
+María,Sandwich de Jamón,5,2025-08-30
+Sofía,Latte,1,2025-12-08
+Luis,Mocaccino,2,2025-04-03
+Camila,Sandwich de Jamón,2,2025-03-27
+Camila,Croissant,4,2025-02-13
+Ana,Capuccino,4,2025-05-17
+Carlos,Mocaccino,4,2025-03-15
+Elena,Mocaccino,2,2025-02-05
+Andrés,Cheesecake,3,2025-04-11
+Jorge,Latte,5,2025-06-05
+Sofía,Mocaccino,3,2025-09-12
+María,Mocaccino,3,2025-06-20
+Elena,Croissant,2,2025-08-04
+Luis,Croissant,3,2025-06-19
+Camila,Sandwich de Jamón,1,2025-09-09
+Sofía,Capuccino,4,2025-12-26
+Jorge,Cheesecake,1,2025-11-18
+Andrés,Capuccino,5,2025-02-24
+Ana,Sandwich de Jamón,4,2025-04-01
+Jorge,Croissant,3,2025-10-05
+Sofía,Latte,5,2025-04-11
+Jorge,Croissant,4,2025-06-04
+Sofía,Cheesecake,3,2025-12-15
+Sofía,Croissant,1,2025-12-30
+Daniel,Cheesecake,4,2025-05-21
+María,Cheesecake,3,2025-06-22
+Camila,Cheesecake,1,2025-01-10
+Daniel,Sandwich de Jamón,5,2025-08-16
+Andrés,Cheesecake,5,2025-09-22
+Daniel,Cheesecake,5,2025-09-05
+Carlos,Latte,5,2025-09-04
+Carlos,Capuccino,2,2025-06-04
+Camila,Mocaccino,4,2025-02-03
+Jorge,Capuccino,4,2025-05-09
+María,Cheesecake,2,2025-06-09
+Camila,Latte,3,2025-03-30
+Sofía,Croissant,3,2025-04-03
+Luis,Latte,5,2025-11-23
+María,Cheesecake,1,2025-08-29
+María,Latte,3,2025-11-19
+Sofía,Latte,1,2025-04-27
+Sofía,Cheesecake,4,2025-04-04
+Ana,Sandwich de Jamón,1,2025-06-12
+Camila,Latte,4,2025-04-09
+Sofía,Mocaccino,2,2025-04-23
+Carlos,Mocaccino,2,2025-12-25
+Andrés,Latte,5,2025-04-01
+Luis,Sandwich de Jamón,3,2025-12-12
+Camila,Croissant,5,2025-07-25
+Elena,Cheesecake,4,2025-01-17
+Carlos,Mocaccino,5,2025-10-01
+Jorge,Croissant,1,2025-06-22
+Sofía,Latte,4,2025-04-26
+Elena,Croissant,2,2025-12-15
+Sofía,Capuccino,3,2025-06-30
+María,Mocaccino,4,2025-04-01
+Carlos,Latte,4,2025-03-23
+María,Cheesecake,1,2025-11-20
+Ana,Sandwich de Jamón,3,2025-04-24
+María,Latte,2,2025-09-14
+Ana,Cheesecake,4,2025-02-27
+Ana,Sandwich de Jamón,4,2025-06-03
+Elena,Sandwich de Jamón,1,2025-12-31
+Sofía,Latte,5,2025-04-26
+Jorge,Croissant,2,2025-12-09
+María,Croissant,3,2025-09-23
+Carlos,Sandwich de Jamón,4,2025-11-11
+Ana,Croissant,4,2025-07-22
+Sofía,Capuccino,2,2025-02-10
+Luis,Sandwich de Jamón,5,2025-04-15
+Camila,Sandwich de Jamón,4,2025-07-12
+Elena,Cheesecake,2,2025-10-05
+Jorge,Croissant,1,2025-12-20
+Daniel,Sandwich de Jamón,5,2025-08-25
+Elena,Capuccino,3,2025-08-09
+Luis,Cheesecake,4,2025-03-09
+Camila,Latte,2,2025-07-16
+Luis,Sandwich de Jamón,1,2025-09-13
+María,Capuccino,3,2025-05-19
+Ana,Mocaccino,2,2025-11-08
+Jorge,Capuccino,2,2025-05-29
+Andrés,Capuccino,3,2025-04-09
+Ana,Cheesecake,1,2025-03-17
+Andrés,Latte,1,2025-10-09
+Camila,Mocaccino,5,2025-04-19
+Sofía,Croissant,4,2025-07-07
+Daniel,Croissant,3,2025-07-18
+Carlos,Capuccino,3,2025-10-30
+Ana,Cheesecake,3,2025-11-23
+Jorge,Cheesecake,1,2025-06-03
+Luis,Croissant,4,2025-02-09
+Jorge,Mocaccino,5,2025-05-13
+Camila,Latte,2,2025-05-12
+Andrés,Mocaccino,2,2025-10-06
+Luis,Sandwich de Jamón,3,2025-12-28
+Carlos,Sandwich de Jamón,4,2025-03-25
+Carlos,Latte,1,2025-08-30
+Ana,Croissant,4,2025-04-26
+Camila,Latte,4,2025-04-19
+Sofía,Cheesecake,1,2025-08-09
+Camila,Sandwich de Jamón,3,2025-02-10
+Andrés,Capuccino,4,2025-05-27
+Jorge,Capuccino,2,2025-04-22
+Carlos,Croissant,1,2025-04-13
+Jorge,Cheesecake,5,2025-02-15
+Jorge,Mocaccino,3,2025-11-20
+Jorge,Cheesecake,1,2025-09-28
+Carlos,Capuccino,5,2025-07-14
+Elena,Capuccino,5,2025-10-07
+María,Sandwich de Jamón,4,2025-10-10
+Andrés,Cheesecake,4,2025-02-09
+Elena,Cheesecake,4,2025-07-08
+Andrés,Capuccino,1,2025-06-13
+Luis,Mocaccino,1,2025-01-24
+Camila,Croissant,3,2025-01-24
+Camila,Croissant,4,2025-01-04
+Daniel,Cheesecake,5,2025-11-19
+Camila,Croissant,2,2025-10-17
+Carlos,Capuccino,3,2025-06-30
+Sofía,Capuccino,1,2025-09-05
+Ana,Cheesecake,3,2025-04-26
+Daniel,Cheesecake,3,2025-10-06
+Ana,Sandwich de Jamón,3,2025-12-31
+Andrés,Cheesecake,3,2025-03-10
+Ana,Mocaccino,2,2025-12-17
+Ana,Croissant,4,2025-09-11
+Daniel,Cheesecake,5,2025-06-30
+Luis,Latte,3,2025-11-14
+Jorge,Sandwich de Jamón,3,2025-06-18
+Camila,Latte,3,2025-11-09
+Camila,Capuccino,4,2025-09-06
+Carlos,Croissant,1,2025-07-07
+Daniel,Cheesecake,1,2025-02-23
+Carlos,Latte,2,2025-11-22
+Sofía,Croissant,1,2025-12-23
+Sofía,Capuccino,3,2025-11-09
+Carlos,Mocaccino,3,2025-05-18
+Daniel,Sandwich de Jamón,3,2025-06-17
+Carlos,Croissant,2,2025-04-13
+Camila,Croissant,3,2025-03-26
+Elena,Mocaccino,1,2025-11-13
+María,Croissant,4,2025-07-31
+Ana,Capuccino,4,2025-01-03
+María,Capuccino,5,2025-06-28
+Daniel,Mocaccino,1,2025-12-08
+María,Sandwich de Jamón,3,2025-10-30
+Sofía,Cheesecake,4,2025-11-28
+Andrés,Latte,1,2025-02-07
+Ana,Cheesecake,4,2025-08-27
+Jorge,Croissant,3,2025-06-18
+Daniel,Latte,4,2025-12-09
+Ana,Mocaccino,5,2025-11-10
+María,Mocaccino,5,2025-11-02
+Sofía,Sandwich de Jamón,4,2025-01-30
+Luis,Latte,1,2025-07-09
+Elena,Capuccino,1,2025-12-23
+Jorge,Latte,1,2025-01-25
+Elena,Croissant,4,2025-04-22
+Ana,Capuccino,1,2025-07-25
+Sofía,Mocaccino,3,2025-07-04
+Sofía,Latte,5,2025-02-16
+María,Cheesecake,3,2025-08-16
+Camila,Sandwich de Jamón,1,2025-02-08
+María,Cheesecake,3,2025-01-16
+Camila,Sandwich de Jamón,1,2025-01-22
+Camila,Croissant,4,2025-08-01
+Jorge,Cheesecake,3,2025-11-06
+María,Latte,4,2025-05-29
+Luis,Latte,4,2025-08-29
+Carlos,Cheesecake,2,2025-09-29
+Carlos,Latte,1,2025-02-28
+María,Croissant,5,2025-10-14
+María,Capuccino,1,2025-07-21
+Elena,Croissant,5,2025-02-01
+Jorge,Sandwich de Jamón,1,2025-06-11
+María,Croissant,4,2025-09-12
+Elena,Sandwich de Jamón,3,2025-09-11
+Camila,Latte,3,2025-01-09
+Sofía,Capuccino,2,2025-05-19
+Sofía,Latte,5,2025-01-10
+Camila,Mocaccino,5,2025-08-02
+Daniel,Latte,5,2025-09-30
+Elena,Sandwich de Jamón,4,2025-11-20
+Elena,Latte,5,2025-02-17
+Camila,Latte,3,2025-04-21
+Luis,Capuccino,4,2025-06-02
+Andrés,Latte,1,2025-05-03
